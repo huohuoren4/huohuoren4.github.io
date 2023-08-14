@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t}from"./chunks/framework.48c56699.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/allure/language.md","filePath":"python/allure/language.md"}'),n={name:"python/allure/language.md"};function r(o,l,s,c,p,u){return a(),t("div")}const i=e(n,[["render",r]]);export{d as __pageData,i as default};
